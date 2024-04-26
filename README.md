@@ -14,6 +14,10 @@ COLLEGE NAME : Pragati Engineering College
 
 ROLL NUMBER : 20A31A05D0
 
-DASHBOARD LINK - https://public.tableau.com/app/profile/amulya.sai.akasam/viz/AmulyaSaiAkasam/Dashboard1#1
+DASHBOARD LINK :
 
-Story LINK - https://public.tableau.com/app/profile/amulya.sai.akasam/viz/AmulyaSaiAkasam_17141600430670/Co2Emissionstory#1
+https://public.tableau.com/app/profile/amulya.sai.akasam/viz/AmulyaSaiAkasam/Dashboard1#1
+
+Story LINK :
+
+https://public.tableau.com/app/profile/amulya.sai.akasam/viz/AmulyaSaiAkasam_17141600430670/Co2Emissionstory#1
